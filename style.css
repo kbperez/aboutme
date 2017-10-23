@@ -1,0 +1,68 @@
+/* app styles */
+body{
+  font-family: Arial;
+}
+
+header {
+  text-align: center; /*Center Header*/
+  background: #547980;/*Slate Backgroun*/
+  color: #E5FCC2;/*spring green Font*/
+  padding: 20px;
+}
+
+main {
+
+
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+h2{
+  font-size: 24px;
+  margin: 30px 15px;
+}
+
+h3{
+  font-size: 16px;
+  margin: 30px 15px;
+}
+
+
+ul {
+  margin: auto; 0px;
+}
+
+li{
+  margin: 10px 30px;
+}
+
+p{
+    margin: 30px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.detail {
+  color: #bbb;
+  font-size: 12px;
+  margin-bottom: 5px:
+
+}
+
+div{
+  margin: 15px;
+  font-size: 12px;
+  background: #45ADA8;/*Teal Backgroun*/
+  color: #9DE0AD;/*Willow Font*/
+}
+
+footer{footer
+height=50px;
+background: #547980;/*Slate Backgroun*/
+color: #E5FCC2;/*spring green Font*/
+padding: 10px;
+
+}
